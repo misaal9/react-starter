@@ -1,3 +1,9 @@
+## Author's Note
+
+- This project was used to test how to quick-start a react application using `create-react-app`.
+- After this I wanted to publish this project using `gh-pages`.
+- If you've come here looking for a React project, I suggest you check out some of my work on the main page. I do not intend to work on this project anymore.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
